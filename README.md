@@ -12,18 +12,18 @@ simply paste it anywhere and you can scan it with your phone.
  Install the PyQt5 library using pip. Run the following command in your terminal or command prompt:
 
   
-    "pip install pyqt5"
+    pip install pyqt5
   
 
  Install the qrcode library using pip. Run the following command in your terminal or command prompt:
 
  
-    "pip install qrcode"
+    pip install qrcode
    
     
 
 Once you have installed the dependencies, you can run the QR code generator application by executing the following command:
 
 
-"python QRCodeGenerator.py"
+python QRCodeGenerator.py
 
